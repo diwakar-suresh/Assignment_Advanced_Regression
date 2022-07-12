@@ -3,6 +3,8 @@
 ## Table of Contents
 * Assignment Info
 * Business Goal
+* Coding package used 
+* Activities done
 
 ## Assignment Info 
 
